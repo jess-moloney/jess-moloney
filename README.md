@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning about cancer research and working on building some projects using cancer datasets.
+
 <!--
 **jess-moloney/jess-moloney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
